@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixadet
 - 👀 I"m interested in becoming a fullstack developer.
 - 🌱 I’m currently learning "The Complete 2022 Web Development" course on Udemy for Business.
-- 💞️ I’m looking to collaborate on with beginners like myself as well as experienced "Fullstack Developers" to sharpen my horizons.
+- 💞️ I’m looking to collaborate with beginners like myself as well as experienced "Fullstack Developers" to sharpen my horizons.
 - 📫 I can be reached at oluwasesan.adetola@yahoo.com and whatsapp - +2349052267929.
 
 <!---
